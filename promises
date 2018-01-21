@@ -1,4 +1,5 @@
-//Promises in Javascript
+//Understanding Promises in Javascript
+//Completing tasks one after the other.
 let wakeup = function() {
   return new Promise(function(resolve, reject) {
 	var value=true;//change this value between true-false to get resolve/reject content	
